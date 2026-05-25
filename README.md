@@ -2,6 +2,10 @@
 
 Projeto de análise de faturamento desenvolvido no Power BI com foco em acompanhar indicadores comerciais e financeiros de vendas. O dashboard consolida informações por produto, país, segmento e período, permitindo uma visão clara sobre receita, lucro, descontos e volume vendido.
 
+<div align="center">
+  <img src="./assets/Faturamento.png" alt="Dashboard principal com visão consolidada dos projetos" width="900" />
+</div>
+
 ## Sobre o projeto
 
 Este projeto foi construído a partir de uma base transacional de vendas contendo informações sobre segmentos de clientes, países, produtos, faixas de desconto e calendário. O objetivo foi transformar esses dados em um relatório gerencial para apoiar análises de desempenho comercial.
